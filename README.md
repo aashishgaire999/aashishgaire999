@@ -41,11 +41,11 @@
 
 ---
 
-## 📊 GitHub Stats (Fixed ✅)
+## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashishgaire999&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishgaire999&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://aashishgaire999.vercel.app/api?username=aashishgaire999&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://aashishgaire999.vercel.app/api/top-langs/?username=aashishgaire999&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -76,7 +76,6 @@
   <img src="https://raw.githubusercontent.com/aashishgaire999/aashishgaire999/output/snake.svg" />
 </p>
 
-> ⚠️ IMPORTANT: Snake graph needs GitHub Action setup (tell me if you want steps)
 
 ---
 
