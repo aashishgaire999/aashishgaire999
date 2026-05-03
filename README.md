@@ -81,9 +81,4 @@
 
 <p align="center">
   Thanks for visiting! ⭐ Star some repos if you find them useful!
-</p>  <em>"First, solve the problem. Then, write the code." – John Johnson</em>
-</p>
-
-<p align="center">
-  Thanks for visiting! ⭐ Star some repos if you find them useful!
 </p>
