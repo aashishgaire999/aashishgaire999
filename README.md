@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aashishgaire999&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishgaire999&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aashishgaire999&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aashishgaire999&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -70,13 +70,18 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=aashishgaire999&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=aashishgaire999&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashishgaire999&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
   <em>"First, solve the problem. Then, write the code." – John Johnson</em>
+</p>
+
+<p align="center">
+  Thanks for visiting! ⭐ Star some repos if you find them useful!
+</p>  <em>"First, solve the problem. Then, write the code." – John Johnson</em>
 </p>
 
 <p align="center">
