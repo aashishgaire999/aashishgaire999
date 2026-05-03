@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://aashishgaire999.vercel.app/api?username=aashishgaire999&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://aashishgaire999.vercel.app/api/top-langs/?username=aashishgaire999&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-six-taupe-70.vercel.app/api?username=aashishgaire999&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-six-taupe-70.vercel.app/api/top-langs/?username=aashishgaire999&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
