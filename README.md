@@ -5,11 +5,11 @@ Readme · MD
 [![Portfolio](https://img.shields.io/badge/codyza.com-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://codyza.com)
 [![Email](https://img.shields.io/badge/gaireashish64@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaireashish64@gmail.com)
 [![GitHub](https://img.shields.io/badge/aashishgaire999-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashishgaire999)
-![Location](https://img.shields.io/badge/Marshall%2C_MN-F--1_%2F_OPT_Eligible-0ea5e9?style=for-the-badge)
+
  
 ---
  
-## 🚀 What I Build
+##  What I Build
  
 I'm a full-stack developer and co-founder of **[Codyza](https://codyza.com)** — a production developer community platform I built from scratch in under 4 weeks. I work at the intersection of **AI, modern web architecture, and real-world product shipping**.
  
@@ -17,7 +17,7 @@ I don't just write code — I architect systems, design UX, and deploy products 
  
 ---
  
-## 🏗️ Featured Work
+##  Featured Work
  
 ### [Codyza — Developer Ecosystem Platform](https://codyza.com)
 > *Co-Founder & Lead Developer · Jan 2025 – Present*
@@ -29,11 +29,11 @@ A fully production-grade developer community platform — invite-only, AI-powere
 ```
  
 **What's under the hood:**
-- 🤖 **AI code review pipeline** — Gemini AI evaluates every project submission across 6 dimensions, generates scored feedback, awards XP automatically
-- 🎮 **Full gamification system** — 8-tier XP rank progression (Apprentice → Codyza Fellow), leaderboard, streak tracking, public contributor profiles
-- 👥 **Team collaboration** — Project Groups with role assignments (PM/Frontend/Backend/Design/DevOps/AI), Open Bounties with XP rewards, real-time notifications
-- 🔐 **Production security** — Supabase RLS policies, JWT auth, invite-only access control, auth guards on all protected routes
-- 🎨 **Custom design system** — glassmorphism aurora aesthetic, 15+ pages, Framer Motion animations, fully responsive
+-  **AI code review pipeline** — Gemini AI evaluates every project submission across 6 dimensions, generates scored feedback, awards XP automatically
+-  **Full gamification system** — 8-tier XP rank progression (Apprentice → Codyza Fellow), leaderboard, streak tracking, public contributor profiles
+-  **Team collaboration** — Project Groups with role assignments (PM/Frontend/Backend/Design/DevOps/AI), Open Bounties with XP rewards, real-time notifications
+-  **Production security** — Supabase RLS policies, JWT auth, invite-only access control, auth guards on all protected routes
+-  **Custom design system** — glassmorphism aurora aesthetic, 15+ pages, Framer Motion animations, fully responsive
 **Stack:** `Next.js 16` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Gemini AI` `Resend` `Vercel`
  
 ---
@@ -70,10 +70,10 @@ A fully production-grade developer community platform — invite-only, AI-powere
  
 ---
  
-## 🎯 Currently
+##  Currently
  
-- 🔭 Building **[Codyza](https://codyza.com)** — shipping new features every week
-- 🌱 Learning **system design** and **scalable architecture**
+-  Building **[Codyza](https://codyza.com)** — shipping new features every week
+-  Learning **system design** and **scalable architecture**
 - 💼 Open to **internships and co-op opportunities** for Summer/Fall 2026
 - 🎓 B.S. Computer Science @ Southwest Minnesota State University (Expected May 2028)
 ---
