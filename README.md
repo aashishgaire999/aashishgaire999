@@ -1,92 +1,105 @@
-<!-- Typing Animation Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ashish+Gaire+👋;Full+Stack+Developer;Building+Clean+%26+Modern+Apps;Always+Learning+🚀" />
-</p>
-
-<h3 align="center">Full Stack Developer | Java • JavaScript • HTML/CSS</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashishgaire999&label=Profile%20views&color=0ea5e9&style=flat" />
-  <img src="https://img.shields.io/github/followers/aashishgaire999?label=Followers&style=social" />
-</p>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashish%20Gaire&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%C2%B7%20Co-Founder%20%40%20Codyza&descAlignY=55&descSize=16" width="100%"/>
+</div>
+<div align="center">
+[![Portfolio](https://img.shields.io/badge/codyza.com-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://codyza.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aashishgaire999-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashishgaire999)
+[![Email](https://img.shields.io/badge/Email-gaireashish64@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaireashish64@gmail.com)
+[![Location](https://img.shields.io/badge/Marshall%2C%20MN-F-1%20%2F%20OPT%20Eligible-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+ 
+</div>
 ---
-
-## 🚀 About Me
-
-- 🎓 Passionate developer building real-world projects  
-- 💻 Love clean UI, smooth UX, and functional apps  
-- 🌱 Currently leveling up in **Java, JavaScript, Backend**  
-- 🔭 Exploring scalable systems & best practices  
-- ⚡ Debugging with `console.log()` like a legend  
-- 📫 **gaireashish64@gmail.com**
-
+ 
+## 🚀 What I Build
+ 
+I'm a full-stack developer and co-founder of **[Codyza](https://codyza.com)** — a production developer community platform I built from scratch in under 4 weeks. I work at the intersection of **AI, modern web architecture, and real-world product shipping**.
+ 
+I don't just write code — I architect systems, design UX, and deploy products that real people actually use.
+ 
 ---
-
+ 
+## 🏗️ Featured Work
+ 
+### [Codyza — Developer Ecosystem Platform](https://codyza.com)
+> *Co-Founder & Lead Developer · Jan 2025 – Present*
+ 
+A fully production-grade developer community platform — invite-only, AI-powered, live at [codyza.com](https://codyza.com)
+ 
+```
+13 active contributors  ·  Zero paid marketing  ·  Built in < 4 weeks
+```
+ 
+**What's under the hood:**
+- 🤖 **AI code review pipeline** — Gemini AI evaluates every project submission across 6 dimensions, generates scored feedback, awards XP automatically
+- 🎮 **Full gamification system** — 8-tier XP rank progression (Apprentice → Codyza Fellow), leaderboard, streak tracking, public contributor profiles
+- 👥 **Team collaboration** — Project Groups with role assignments (PM/Frontend/Backend/Design/DevOps/AI), Open Bounties with XP rewards, real-time notifications
+- 🔐 **Production security** — Supabase RLS policies, JWT auth, invite-only access control, auth guards on all protected routes
+- 🎨 **Custom design system** — glassmorphism aurora aesthetic, 15+ pages, Framer Motion animations, fully responsive
+**Stack:** `Next.js 16` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Gemini AI` `Resend` `Vercel`
+ 
+---
+ 
 ## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,python,mysql,git,vscode" />
-</p>
-
+ 
+<div align="center">
+**Languages**
+ 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+ 
+**Frontend**
+ 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+ 
+**Backend & Database**
+ 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+ 
+**AI & Tools**
+ 
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+ 
+</div>
 ---
-
-## 📌 Featured Projects
-
-| Project | Description | Tech | Live |
-|--------|------------|------|------|
-| 🍎 FoodTruth | Food scanner & nutrition dashboard | HTML, JS, Node | [Live](https://aashishgaire999.github.io/foodtruth/) |
-| 🧠 Quiz Game | Trivia game with animations & streaks | HTML, CSS, JS | [Live](https://aashishgaire999.github.io/Quiz-game/) |
-| ✅ Task Manager | Java desktop task management system | Java | [Repo](https://github.com/aashishgaire999/TASK-MANAGEMENT) |
-
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+<img height="160" src="https://github-readme-stats-six-tau-05.vercel.app/api?username=aashishgaire999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats-six-tau-05.vercel.app/api/top-langs/?username=aashishgaire999&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=aashishgaire999&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+ 
+</div>
 ---
-
-## 📊 GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats-six-taupe-70.vercel.app/api?username=aashishgaire999&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-six-taupe-70.vercel.app/api/top-langs/?username=aashishgaire999&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aashishgaire999&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
+ 
+## 🎯 Currently
+ 
+- 🔭 Building **[Codyza](https://codyza.com)** — shipping new features every week
+- 🌱 Learning **system design** and **scalable architecture**
+- 💼 Open to **internships and co-op opportunities** for Summer/Fall 2026
+- 🎓 B.S. Computer Science @ Southwest Minnesota State University (Expected May 2028)
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aashishgaire999&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
+ 
+## 💬 Philosophy
+ 
+> *"Ship fast, learn faster. Real products beat perfect portfolios."*
+ 
 ---
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashishgaire999&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Snake Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aashishgaire999/aashishgaire999/output/snake.svg" />
-</p>
-
-
----
-
-## 💬 Quote
-
-<p align="center">
-  <em>"First, solve the problem. Then, write the code."</em>
-</p>
-
----
-
-<p align="center">
-  ⭐ Star some repos if you find them useful!
-</p>
+ 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+ 
