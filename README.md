@@ -1,13 +1,11 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashish%20Gaire&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%C2%B7%20Co-Founder%20%40%20Codyza&descAlignY=55&descSize=16" width="100%"/>
 </div>
-<div align="center">
 [![Portfolio](https://img.shields.io/badge/codyza.com-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://codyza.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aashishgaire999-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashishgaire999)
-[![Email](https://img.shields.io/badge/Email-gaireashish64@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaireashish64@gmail.com)
-[![Location](https://img.shields.io/badge/Marshall%2C%20MN-F-1%20%2F%20OPT%20Eligible-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/gaireashish64@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaireashish64@gmail.com)
+[![GitHub](https://img.shields.io/badge/aashishgaire999-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashishgaire999)
+![Location](https://img.shields.io/badge/Marshall%2C%20MN-F--1%20%2F%20OPT%20Eligible-0ea5e9?style=for-the-badge)
  
-</div>
 ---
  
 ## 🚀 What I Build
@@ -41,7 +39,6 @@ A fully production-grade developer community platform — invite-only, AI-powere
  
 ## 🛠️ Tech Stack
  
-<div align="center">
 **Languages**
  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -70,19 +67,14 @@ A fully production-grade developer community platform — invite-only, AI-powere
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
  
-</div>
 ---
  
 ## 📊 GitHub Stats
  
-<div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=aashishgaire999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishgaire999&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=aashishgaire999&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
  
-</div>
 ---
  
 ## 🎯 Currently
