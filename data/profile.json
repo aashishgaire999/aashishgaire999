@@ -6,11 +6,11 @@
     "Co-Founder @ Codyza",
     "B.S. Computer Science @ SMSU, 2028"
   ],
-  "refreshedAt": "2026-10-10T21:29:24.800Z",
+  "refreshedAt": "2026-10-10T21:52:06.955Z",
   "contributions": {
-    "total": 521,
-    "private": 397,
-    "commits": 111,
+    "total": 529,
+    "private": 403,
+    "commits": 112,
     "pullRequests": 2,
     "issues": 1,
     "reviews": 0,
@@ -19,48 +19,48 @@
     "longest": 8
   },
   "followers": 4,
-  "publicRepos": 10,
+  "publicRepos": 11,
   "stars": 4,
   "languages": [
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 57.29355194533986
+      "pct": 55.603858800408176
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 15.649464000771069
-    },
-    {
-      "name": "CSS",
-      "color": "#663399",
-      "pct": 8.007325144307485
-    },
-    {
-      "name": "Java",
-      "color": "#b07219",
-      "pct": 7.527744324814267
+      "pct": 15.18793227257266
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 6.303966228787116
+      "pct": 8.972088892248383
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "pct": 7.828243697796592
+    },
+    {
+      "name": "Java",
+      "color": "#b07219",
+      "pct": 7.305737178275823
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 5.072204854806566
+      "pct": 4.960693903775653
     },
     {
       "name": "Mermaid",
       "color": "#ff3670",
-      "pct": 0.12636944857941462
+      "pct": 0.12264257908462149
     },
     {
       "name": "Shell",
       "color": "#89e051",
-      "pct": 0.019374052594224585
+      "pct": 0.01880267583808912
     }
   ],
   "topRepos": [
@@ -122,26 +122,26 @@
       ]
     },
     {
-      "name": "skillspulse-backend",
+      "name": "ai-project-reviewer",
       "description": "",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-09-13T13:05:03Z",
+      "pushedAt": "2026-10-10T21:51:50Z",
       "languages": [
         {
-          "name": "HTML",
-          "color": "#e34c26",
-          "pct": 72.12989563256845
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "pct": 96.77378015570436
         },
         {
-          "name": "Python",
-          "color": "#3572A5",
-          "pct": 27.789697403137893
+          "name": "CSS",
+          "color": "#663399",
+          "pct": 1.9350911479191362
         },
         {
-          "name": "Shell",
-          "color": "#89e051",
-          "pct": 0.08040696429365109
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "pct": 1.2911286963765098
         }
       ]
     }
