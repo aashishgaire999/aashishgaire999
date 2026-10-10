@@ -6,13 +6,13 @@
     "Co-Founder @ Codyza",
     "B.S. Computer Science @ SMSU, 2028"
   ],
-  "refreshedAt": "2026-10-10T21:23:05.903Z",
+  "refreshedAt": "2026-10-10T21:29:24.800Z",
   "contributions": {
-    "total": 518,
+    "total": 521,
     "private": 397,
-    "commits": 110,
-    "pullRequests": 1,
-    "issues": 0,
+    "commits": 111,
+    "pullRequests": 2,
+    "issues": 1,
     "reviews": 0,
     "activeDays": 62,
     "current": 4,
@@ -25,42 +25,42 @@
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 55.91461294202824
+      "pct": 57.29355194533986
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 15.272813303460975
+      "pct": 15.649464000771069
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 7.8146051508915155
-    },
-    {
-      "name": "JavaScript",
-      "color": "#f1e05a",
-      "pct": 7.356923375120431
+      "pct": 8.007325144307485
     },
     {
       "name": "Java",
       "color": "#b07219",
-      "pct": 7.3465668641054735
+      "pct": 7.527744324814267
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 6.15224261219712
+      "pct": 6.303966228787116
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "pct": 5.072204854806566
     },
     {
       "name": "Mermaid",
       "color": "#ff3670",
-      "pct": 0.12332799355425958
+      "pct": 0.12636944857941462
     },
     {
       "name": "Shell",
       "color": "#89e051",
-      "pct": 0.018907758641985867
+      "pct": 0.019374052594224585
     }
   ],
   "topRepos": [
@@ -122,16 +122,26 @@
       ]
     },
     {
-      "name": "aashishgaire999",
+      "name": "skillspulse-backend",
       "description": "",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-10-10T21:22:56Z",
+      "pushedAt": "2026-09-13T13:05:03Z",
       "languages": [
         {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "pct": 100
+          "name": "HTML",
+          "color": "#e34c26",
+          "pct": 72.12989563256845
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "pct": 27.789697403137893
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "pct": 0.08040696429365109
         }
       ]
     }
