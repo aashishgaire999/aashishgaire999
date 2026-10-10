@@ -6,11 +6,11 @@
     "Co-Founder @ Codyza",
     "B.S. Computer Science @ SMSU, 2028"
   ],
-  "refreshedAt": "2026-10-10T21:52:06.955Z",
+  "refreshedAt": "2026-10-10T21:59:45.680Z",
   "contributions": {
-    "total": 529,
+    "total": 534,
     "private": 403,
-    "commits": 112,
+    "commits": 117,
     "pullRequests": 2,
     "issues": 1,
     "reviews": 0,
@@ -123,10 +123,10 @@
     },
     {
       "name": "ai-project-reviewer",
-      "description": "",
+      "description": "Paste a public GitHub repo, get an honest AI code review grounded in what's actually in it. Next.js 16 + Gemini.",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-10-10T21:51:50Z",
+      "pushedAt": "2026-10-10T21:59:01Z",
       "languages": [
         {
           "name": "TypeScript",
