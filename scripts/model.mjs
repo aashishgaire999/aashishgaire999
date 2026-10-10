@@ -63,7 +63,8 @@ export function buildModel(raw, config) {
   const cc = user.contributionsCollection;
   const days = cc.contributionCalendar.weeks.flatMap((w) => w.contributionDays);
   const today = raw.fetchedAt.slice(0, 10);
-  const repos = user.repositories.nodes.filter((r) => !r.isArchived);
+  // The profile repo holds this card, not a project.
+  const repos = user.repositories.nodes.filter((r) => !r.isArchived && r.name !== user.login);
   const topRepos = [...repos]
     .sort((a, b) => b.stargazerCount - a.stargazerCount || b.pushedAt.localeCompare(a.pushedAt))
     .slice(0, config.topRepositories)

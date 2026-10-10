@@ -99,7 +99,7 @@ function langBar(x, y, width, langs, t, height = 10) {
 function langLegend(x, y, langs, t, { columns, colWidth, limit }) {
   const shown = langs.slice(0, limit);
   const rest = langs.slice(limit).reduce((s, l) => s + l.pct, 0);
-  if (rest > 0) shown.push({ name: "Other", color: "#8b8b8b", pct: rest });
+  if (rest >= 0.05) shown.push({ name: "Other", color: "#8b8b8b", pct: rest });
   return shown
     .map((l, i) => {
       const lx = x + (i % columns) * colWidth;
