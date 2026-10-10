@@ -1,0 +1,13 @@
+{
+  "name": "aashishgaire999-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "preview": "node scripts/update.mjs --fixture test/fixture.json",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
