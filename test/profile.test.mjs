@@ -28,6 +28,7 @@ test("model counts only live public data and skips archived repos", () => {
   const m = buildModel(fixture, config);
   assert.equal(m.contributions.total, fixture.user.contributionsCollection.contributionCalendar.totalContributions);
   assert.ok(!m.topRepos.some((r) => r.name === "sample-archived"));
+  assert.ok(!m.topRepos.some((r) => r.name === "aashishgaire999"));
   assert.equal(m.topRepos[0].name, "sample-repo-one");
   assert.deepEqual(m.mergedPullRequests.repos.map((r) => [r.repo, r.count]), [["sample-org/sample-lib", 2], ["other/docs", 1]]);
 });
