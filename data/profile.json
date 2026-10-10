@@ -1,0 +1,173 @@
+{
+  "login": "aashishgaire999",
+  "name": "Ashish Gaire",
+  "tagline": "Full-stack developer shipping AI-powered web products.",
+  "roles": [
+    "Co-Founder @ Codyza",
+    "B.S. Computer Science @ SMSU, 2028"
+  ],
+  "refreshedAt": "2026-10-10T21:23:05.903Z",
+  "contributions": {
+    "total": 518,
+    "private": 397,
+    "commits": 110,
+    "pullRequests": 1,
+    "issues": 0,
+    "reviews": 0,
+    "activeDays": 62,
+    "current": 4,
+    "longest": 8
+  },
+  "followers": 4,
+  "publicRepos": 10,
+  "stars": 4,
+  "languages": [
+    {
+      "name": "HTML",
+      "color": "#e34c26",
+      "pct": 55.91461294202824
+    },
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "pct": 15.272813303460975
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "pct": 7.8146051508915155
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "pct": 7.356923375120431
+    },
+    {
+      "name": "Java",
+      "color": "#b07219",
+      "pct": 7.3465668641054735
+    },
+    {
+      "name": "TypeScript",
+      "color": "#3178c6",
+      "pct": 6.15224261219712
+    },
+    {
+      "name": "Mermaid",
+      "color": "#ff3670",
+      "pct": 0.12332799355425958
+    },
+    {
+      "name": "Shell",
+      "color": "#89e051",
+      "pct": 0.018907758641985867
+    }
+  ],
+  "topRepos": [
+    {
+      "name": "Quiz-game",
+      "description": "",
+      "stars": 2,
+      "forks": 0,
+      "pushedAt": "2026-05-03T03:32:00Z",
+      "languages": [
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "pct": 45.30896482825493
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "pct": 42.84958716539829
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "pct": 11.841448006346782
+        }
+      ]
+    },
+    {
+      "name": "foodtruth",
+      "description": "",
+      "stars": 1,
+      "forks": 0,
+      "pushedAt": "2026-05-03T03:43:41Z",
+      "languages": [
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "pct": 90.5876303212406
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "pct": 9.412369678759402
+        }
+      ]
+    },
+    {
+      "name": "TASK-MANAGEMENT",
+      "description": "",
+      "stars": 1,
+      "forks": 0,
+      "pushedAt": "2026-05-03T00:57:02Z",
+      "languages": [
+        {
+          "name": "Java",
+          "color": "#b07219",
+          "pct": 100
+        }
+      ]
+    },
+    {
+      "name": "aashishgaire999",
+      "description": "",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-10-10T21:22:56Z",
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "pct": 100
+        }
+      ]
+    }
+  ],
+  "mergedPullRequests": {
+    "total": 0,
+    "repos": []
+  },
+  "featured": {
+    "name": "Codyza",
+    "url": "codyza.com",
+    "role": "Co-Founder & Lead Developer",
+    "since": "Jan 2025",
+    "note": "Private repository. Description is self-reported, not live data.",
+    "lines": [
+      "Invite-only developer community platform.",
+      "Gemini-scored project reviews that award XP automatically.",
+      "8-tier rank system, leaderboard, streaks, public profiles.",
+      "Project groups with roles, open bounties, notifications.",
+      "Supabase row-level security and auth guards on every route."
+    ],
+    "stack": [
+      "Next.js 16",
+      "TypeScript",
+      "Supabase",
+      "PostgreSQL",
+      "Gemini",
+      "Resend",
+      "Vercel"
+    ]
+  },
+  "techStack": [
+    "TypeScript",
+    "Next.js",
+    "React",
+    "Supabase",
+    "Python"
+  ]
+}
