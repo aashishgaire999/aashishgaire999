@@ -1,0 +1,24 @@
+{
+  "username": "aashishgaire999",
+  "displayName": "Ashish Gaire",
+  "tagline": "Full-stack developer shipping AI-powered web products.",
+  "roles": ["Co-Founder @ Codyza", "B.S. Computer Science @ SMSU, 2028"],
+  "featured": {
+    "name": "Codyza",
+    "url": "codyza.com",
+    "role": "Co-Founder & Lead Developer",
+    "since": "Jan 2025",
+    "note": "Private repository. Description is self-reported, not live data.",
+    "lines": [
+      "Invite-only developer community platform.",
+      "Gemini-scored project reviews that award XP automatically.",
+      "8-tier rank system, leaderboard, streaks, public profiles.",
+      "Project groups with roles, open bounties, notifications.",
+      "Supabase row-level security and auth guards on every route."
+    ],
+    "stack": ["Next.js 16", "TypeScript", "Supabase", "PostgreSQL", "Gemini", "Resend", "Vercel"]
+  },
+  "techStack": ["TypeScript", "Next.js", "React", "Supabase", "Python"],
+  "topRepositories": 4,
+  "mergedPullRequestRepositories": 4
+}
