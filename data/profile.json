@@ -6,11 +6,11 @@
     "Co-Founder @ Codyza",
     "B.S. Computer Science @ SMSU, 2028"
   ],
-  "refreshedAt": "2026-10-15T21:31:05.090Z",
+  "refreshedAt": "2026-10-16T04:41:42.450Z",
   "contributions": {
-    "total": 562,
-    "private": 419,
-    "commits": 125,
+    "total": 569,
+    "private": 423,
+    "commits": 127,
     "pullRequests": 6,
     "issues": 1,
     "reviews": 0,
@@ -19,48 +19,48 @@
     "longest": 8
   },
   "followers": 5,
-  "publicRepos": 11,
+  "publicRepos": 12,
   "stars": 4,
   "languages": [
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 53.02920941297325
+      "pct": 52.229583708680394
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 14.484678912723192
+      "pct": 14.26626491588528
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 13.073273589878756
+      "pct": 12.876142127474516
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 7.579488981703005
+      "pct": 7.465198116682273
     },
     {
       "name": "Java",
       "color": "#b07219",
-      "pct": 6.96745648775169
+      "pct": 6.86239444057387
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 4.730996760517056
+      "pct": 6.167554926402393
     },
     {
       "name": "Mermaid",
       "color": "#ff3670",
-      "pct": 0.11696380700070737
+      "pct": 0.11520011360257734
     },
     {
       "name": "Shell",
       "color": "#89e051",
-      "pct": 0.017932047452342656
+      "pct": 0.017661650698700227
     }
   ],
   "topRepos": [
@@ -122,26 +122,16 @@
       ]
     },
     {
-      "name": "ai-project-reviewer",
-      "description": "Paste a public GitHub repo, get an honest AI code review grounded in what's actually in it. Next.js 16 + Gemini.",
+      "name": "safe-url",
+      "description": "Stop your server from being tricked into fetching private addresses (SSRF). Zero dependencies.",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-10-10T22:35:13Z",
+      "pushedAt": "2026-10-15T23:49:12Z",
       "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "pct": 97.25296012009976
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "pct": 2.259134603743432
-        },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "pct": 0.4879052761568077
+          "pct": 100
         }
       ]
     }
