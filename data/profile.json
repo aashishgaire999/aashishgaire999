@@ -6,61 +6,61 @@
     "Co-Founder @ Codyza",
     "B.S. Computer Science @ SMSU, 2028"
   ],
-  "refreshedAt": "2026-10-17T15:43:02.354Z",
+  "refreshedAt": "2026-10-17T20:43:39.803Z",
   "contributions": {
-    "total": 569,
+    "total": 576,
     "private": 423,
-    "commits": 127,
+    "commits": 133,
     "pullRequests": 6,
     "issues": 1,
     "reviews": 0,
-    "activeDays": 65,
-    "current": 0,
+    "activeDays": 66,
+    "current": 1,
     "longest": 8
   },
   "followers": 5,
-  "publicRepos": 12,
+  "publicRepos": 13,
   "stars": 4,
   "languages": [
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 52.229583708680394
-    },
-    {
-      "name": "Python",
-      "color": "#3572A5",
-      "pct": 14.26626491588528
+      "pct": 47.627175433144274
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 12.876142127474516
+      "pct": 20.3721058969777
+    },
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "pct": 13.009138761556988
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 7.465198116682273
+      "pct": 6.9510268562401265
     },
     {
       "name": "Java",
       "color": "#b07219",
-      "pct": 6.86239444057387
+      "pct": 6.257688472794137
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 6.167554926402393
+      "pct": 5.661710434309689
     },
     {
       "name": "Mermaid",
       "color": "#ff3670",
-      "pct": 0.11520011360257734
+      "pct": 0.10504881775567813
     },
     {
       "name": "Shell",
       "color": "#89e051",
-      "pct": 0.017661650698700227
+      "pct": 0.016105327221402118
     }
   ],
   "topRepos": [
@@ -122,16 +122,26 @@
       ]
     },
     {
-      "name": "safe-url",
-      "description": "Stop your server from being tricked into fetching private addresses (SSRF). Zero dependencies.",
+      "name": "subentra",
+      "description": "",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-10-15T23:49:12Z",
+      "pushedAt": "2026-10-17T18:54:54Z",
       "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "pct": 97.94270809415784
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "pct": 1.6302201486026027
+        },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "pct": 100
+          "pct": 0.42707175723955515
         }
       ]
     }
