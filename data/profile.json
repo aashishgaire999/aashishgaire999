@@ -6,16 +6,16 @@
     "Co-Founder @ Codyza",
     "B.S. Computer Science @ SMSU, 2028"
   ],
-  "refreshedAt": "2026-10-19T04:52:34.897Z",
+  "refreshedAt": "2026-10-19T13:35:11.073Z",
   "contributions": {
-    "total": 580,
+    "total": 588,
     "private": 423,
-    "commits": 135,
-    "pullRequests": 8,
+    "commits": 142,
+    "pullRequests": 9,
     "issues": 1,
     "reviews": 0,
-    "activeDays": 67,
-    "current": 2,
+    "activeDays": 68,
+    "current": 3,
     "longest": 8
   },
   "followers": 5,
@@ -25,42 +25,42 @@
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 49.67791060172597
+      "pct": 47.95133561428969
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 17.765355488604257
+      "pct": 19.685918992098678
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 13.569287418886738
-    },
-    {
-      "name": "Java",
-      "color": "#b07219",
-      "pct": 6.527132581298978
+      "pct": 13.097681589031854
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 6.42845023125774
+      "pct": 7.142560315107682
+    },
+    {
+      "name": "Java",
+      "color": "#b07219",
+      "pct": 6.300279565178776
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 5.9054928672667515
+      "pct": 5.700245179721055
     },
     {
       "name": "Mermaid",
       "color": "#ff3670",
-      "pct": 0.10957201912192124
+      "pct": 0.10576380123901723
     },
     {
       "name": "Shell",
       "color": "#89e051",
-      "pct": 0.01679879183764432
+      "pct": 0.01621494333325457
     }
   ],
   "topRepos": [
@@ -126,22 +126,22 @@
       "description": "Ashish Gaire — developer portfolio (Next.js, Three.js, Framer Motion)",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-10-19T03:31:22Z",
+      "pushedAt": "2026-10-19T06:19:26Z",
       "languages": [
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "pct": 58.39053018999304
+          "pct": 65.92329785436729
         },
         {
           "name": "CSS",
           "color": "#663399",
-          "pct": 40.21933751119069
+          "pct": 33.40211908382207
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "pct": 1.3901322988162739
+          "pct": 0.674583061810634
         }
       ]
     }
