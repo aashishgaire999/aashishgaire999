@@ -6,16 +6,16 @@
     "Co-Founder @ Codyza",
     "B.S. Computer Science @ SMSU, 2028"
   ],
-  "refreshedAt": "2026-10-18T20:53:17.200Z",
+  "refreshedAt": "2026-10-19T04:52:34.897Z",
   "contributions": {
-    "total": 576,
+    "total": 580,
     "private": 423,
-    "commits": 133,
-    "pullRequests": 6,
+    "commits": 135,
+    "pullRequests": 8,
     "issues": 1,
     "reviews": 0,
-    "activeDays": 66,
-    "current": 1,
+    "activeDays": 67,
+    "current": 2,
     "longest": 8
   },
   "followers": 5,
@@ -25,42 +25,42 @@
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 47.627175433144274
+      "pct": 49.67791060172597
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 20.3721058969777
+      "pct": 17.765355488604257
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 13.009138761556988
-    },
-    {
-      "name": "CSS",
-      "color": "#663399",
-      "pct": 6.9510268562401265
+      "pct": 13.569287418886738
     },
     {
       "name": "Java",
       "color": "#b07219",
-      "pct": 6.257688472794137
+      "pct": 6.527132581298978
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "pct": 6.42845023125774
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 5.661710434309689
+      "pct": 5.9054928672667515
     },
     {
       "name": "Mermaid",
       "color": "#ff3670",
-      "pct": 0.10504881775567813
+      "pct": 0.10957201912192124
     },
     {
       "name": "Shell",
       "color": "#89e051",
-      "pct": 0.016105327221402118
+      "pct": 0.01679879183764432
     }
   ],
   "topRepos": [
@@ -122,26 +122,26 @@
       ]
     },
     {
-      "name": "subentra",
-      "description": "",
+      "name": "portfolio-website",
+      "description": "Ashish Gaire — developer portfolio (Next.js, Three.js, Framer Motion)",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-10-17T18:54:54Z",
+      "pushedAt": "2026-10-19T03:31:22Z",
       "languages": [
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "pct": 97.94270809415784
+          "pct": 58.39053018999304
         },
         {
           "name": "CSS",
           "color": "#663399",
-          "pct": 1.6302201486026027
+          "pct": 40.21933751119069
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "pct": 0.42707175723955515
+          "pct": 1.3901322988162739
         }
       ]
     }
