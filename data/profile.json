@@ -6,61 +6,61 @@
     "Co-Founder @ Codyza",
     "B.S. Computer Science @ SMSU, 2028"
   ],
-  "refreshedAt": "2026-10-20T17:18:32.693Z",
+  "refreshedAt": "2026-10-20T21:43:11.301Z",
   "contributions": {
-    "total": 615,
-    "private": 423,
-    "commits": 160,
-    "pullRequests": 18,
+    "total": 620,
+    "private": 478,
+    "commits": 123,
+    "pullRequests": 6,
     "issues": 1,
     "reviews": 0,
-    "activeDays": 68,
-    "current": 3,
+    "activeDays": 69,
+    "current": 4,
     "longest": 8
   },
   "followers": 5,
-  "publicRepos": 13,
+  "publicRepos": 12,
   "stars": 4,
   "languages": [
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 48.763473769980095
+      "pct": 51.4235007606626
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 19.428902680768438
+      "pct": 16.33786177349294
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 13.03235326309474
-    },
-    {
-      "name": "CSS",
-      "color": "#663399",
-      "pct": 6.713231150910278
+      "pct": 14.046087153321793
     },
     {
       "name": "Java",
       "color": "#b07219",
-      "pct": 6.2688551704008795
+      "pct": 6.756483982394222
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 5.671813623151981
+      "pct": 6.0641543100864475
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "pct": 5.241100771847532
     },
     {
       "name": "Mermaid",
       "color": "#ff3670",
-      "pct": 0.10523627489531098
+      "pct": 0.1134221777931959
     },
     {
       "name": "Shell",
       "color": "#89e051",
-      "pct": 0.016134066798279573
+      "pct": 0.01738907040126809
     }
   ],
   "topRepos": [
@@ -122,31 +122,26 @@
       ]
     },
     {
-      "name": "portfolio-website",
-      "description": "Ashish Gaire — developer portfolio (Next.js, Three.js, Framer Motion)",
+      "name": "subentra",
+      "description": "",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-10-20T01:16:16Z",
+      "pushedAt": "2026-10-17T18:54:54Z",
       "languages": [
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "pct": 59.166685389471795
+          "pct": 97.94270809415784
         },
         {
           "name": "CSS",
           "color": "#663399",
-          "pct": 25.638634882832683
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "pct": 14.566716843784402
+          "pct": 1.6302201486026027
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "pct": 0.6279628839111191
+          "pct": 0.42707175723955515
         }
       ]
     }
