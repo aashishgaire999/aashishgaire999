@@ -6,16 +6,16 @@
     "Co-Founder @ Codyza",
     "B.S. Computer Science @ SMSU, 2028"
   ],
-  "refreshedAt": "2026-10-27T22:24:14.935Z",
+  "refreshedAt": "2026-10-28T05:54:35.932Z",
   "contributions": {
-    "total": 629,
-    "private": 487,
-    "commits": 123,
-    "pullRequests": 6,
+    "total": 641,
+    "private": 490,
+    "commits": 129,
+    "pullRequests": 9,
     "issues": 1,
     "reviews": 0,
-    "activeDays": 71,
-    "current": 1,
+    "activeDays": 72,
+    "current": 2,
     "longest": 8
   },
   "followers": 5,
@@ -25,42 +25,42 @@
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 51.4235007606626
+      "pct": 50.46867710420154
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 16.33786177349294
+      "pct": 17.89128749416834
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 14.046087153321793
+      "pct": 13.785281566453525
     },
     {
       "name": "Java",
       "color": "#b07219",
-      "pct": 6.756483982394222
+      "pct": 6.631030626526524
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 6.0641543100864475
+      "pct": 5.951556025137902
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 5.241100771847532
+      "pct": 5.143784818463734
     },
     {
       "name": "Mermaid",
       "color": "#ff3670",
-      "pct": 0.1134221777931959
+      "pct": 0.111316172233047
     },
     {
       "name": "Shell",
       "color": "#89e051",
-      "pct": 0.01738907040126809
+      "pct": 0.017066192815390104
     }
   ],
   "topRepos": [
@@ -122,26 +122,26 @@
       ]
     },
     {
-      "name": "subentra",
-      "description": "",
+      "name": "ai-project-reviewer",
+      "description": "Paste a public GitHub repo, get an honest AI code review grounded in what's actually in it. Next.js 16 + Gemini.",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-10-17T18:54:54Z",
+      "pushedAt": "2026-10-28T02:26:55Z",
       "languages": [
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "pct": 97.94270809415784
+          "pct": 97.82348032115415
         },
         {
           "name": "CSS",
           "color": "#663399",
-          "pct": 1.6302201486026027
+          "pct": 1.7899452272923482
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "pct": 0.42707175723955515
+          "pct": 0.3865744515534921
         }
       ]
     }
