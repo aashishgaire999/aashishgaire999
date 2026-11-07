@@ -6,16 +6,16 @@
     "Co-Founder @ Codyza",
     "B.S. Computer Science @ SMSU, 2028"
   ],
-  "refreshedAt": "2026-11-07T13:16:03.365Z",
+  "refreshedAt": "2026-11-07T21:58:53.911Z",
   "contributions": {
-    "total": 738,
+    "total": 741,
     "private": 566,
-    "commits": 143,
-    "pullRequests": 16,
+    "commits": 145,
+    "pullRequests": 17,
     "issues": 1,
     "reviews": 0,
-    "activeDays": 76,
-    "current": 0,
+    "activeDays": 77,
+    "current": 1,
     "longest": 8
   },
   "followers": 5,
@@ -25,42 +25,42 @@
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 48.224391427124495
+      "pct": 47.746075377736524
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 21.539292346068308
+      "pct": 22.31750881716522
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 13.172265498879796
+      "pct": 13.041615721693187
     },
     {
       "name": "Java",
       "color": "#b07219",
-      "pct": 6.3361561040846865
+      "pct": 6.273310621408329
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 5.686896978974263
+      "pct": 5.630491205552116
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 4.918324300139145
+      "pct": 4.869541653448694
     },
     {
       "name": "Mermaid",
       "color": "#ff3670",
-      "pct": 0.10636606643863791
+      "pct": 0.10531106926433972
     },
     {
       "name": "Shell",
       "color": "#89e051",
-      "pct": 0.01630727829066945
+      "pct": 0.016145533731589834
     }
   ],
   "topRepos": [
@@ -126,22 +126,22 @@
       "description": "Paste a public GitHub repo, get an honest AI code review grounded in what's actually in it. Next.js 16 + Gemini.",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-11-03T05:41:23Z",
+      "pushedAt": "2026-11-07T15:27:19Z",
       "languages": [
         {
           "name": "TypeScript",
           "color": "#3178c6",
-          "pct": 98.54335551840519
+          "pct": 98.64765139978915
         },
         {
           "name": "CSS",
           "color": "#663399",
-          "pct": 1.2024098665741412
+          "pct": 1.116317207449924
         },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "pct": 0.25423461502066047
+          "pct": 0.23603139276092305
         }
       ]
     }
