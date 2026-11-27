@@ -6,12 +6,12 @@
     "Co-Founder @ Codyza",
     "B.S. Computer Science @ SMSU, 2028"
   ],
-  "refreshedAt": "2026-11-27T08:47:05.820Z",
+  "refreshedAt": "2026-11-27T21:26:51.058Z",
   "contributions": {
-    "total": 926,
-    "private": 748,
-    "commits": 147,
-    "pullRequests": 18,
+    "total": 932,
+    "private": 730,
+    "commits": 163,
+    "pullRequests": 26,
     "issues": 1,
     "reviews": 0,
     "activeDays": 92,
@@ -147,8 +147,17 @@
     }
   ],
   "mergedPullRequests": {
-    "total": 0,
-    "repos": []
+    "total": 8,
+    "repos": [
+      {
+        "repo": "prashantsubedii/nepaldisaster",
+        "stars": 1,
+        "count": 8,
+        "additions": 553,
+        "deletions": 162,
+        "latest": "2026-11-26T05:34:36Z"
+      }
+    ]
   },
   "featured": {
     "name": "Codyza",
